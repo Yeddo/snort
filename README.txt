@@ -1,8 +1,7 @@
 
 # Snort Rule Templates
 
-This directory contains several Snort rule templates for different scenarios. 
-You can modify these templates to suit your specific needs.
+Templates for different scenarios. 
 
 ## List of Rule Templates
 
