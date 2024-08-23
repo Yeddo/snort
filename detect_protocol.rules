@@ -1,0 +1,3 @@
+
+# Snort rule to detect traffic using a specific protocol
+alert icmp any any -> any any (msg:"ICMP Traffic Detected"; sid:1000003; rev:1;)

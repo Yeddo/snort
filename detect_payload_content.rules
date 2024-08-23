@@ -1,0 +1,3 @@
+
+# Snort rule to detect traffic containing specific content in the payload
+alert tcp any any -> any any (msg:"Malicious Payload Detected"; content:"malicious_string"; sid:1000004; rev:1;)
